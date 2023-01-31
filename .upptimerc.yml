@@ -7,8 +7,10 @@ sites:
     url: https://ifive-community.fr
   - name: Panel
     url: https://ifive-community.fr/panel
+  - name: Discord
+    url: https://discord.com/api/v10
   - name: Steam
-    url: http://api.steampowered.com
+    url: https://api.steampowered.com
   - name: iFive DarkRP
     check: "tcp-ping"
     url: 51.91.215.27
@@ -39,6 +41,6 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 i18n:
-  footer: Page de statuts pour plusieurs projets
+  footer:  
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
