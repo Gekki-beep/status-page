@@ -5,10 +5,10 @@ repo: status-page # The name of this repository
 sites:
   - name: iFive
     url: https://ifive-community.fr
-    logoUrl: https://cdn.discordapp.com/attachments/973695121176526908/1070010345164386426/ifive.jpeg
+    icon: https://cdn.discordapp.com/attachments/973695121176526908/1070010345164386426/ifive.jpeg
   - name: Panel
     url: https://ifive-community.fr/panel
-    logoUrl: https://cdn.discordapp.com/attachments/973695121176526908/1070010345164386426/ifive.jpeg
+    icon: https://cdn.discordapp.com/attachments/973695121176526908/1070010345164386426/ifive.jpeg
   - name: Discord
     url: https://discord.com/api/v10
     expectedStatusCodes:
@@ -17,22 +17,22 @@ sites:
     url: https://api.steampowered.com
     expectedStatusCodes:
       - 404
-    logoUrl: https://www.pinclipart.com/picdir/middle/100-1003109_steam-clip-art.png
+    icon: https://www.pinclipart.com/picdir/middle/100-1003109_steam-clip-art.png
   - name: iFive DarkRP
     check: "tcp-ping"
     url: 51.91.215.27
     port: 10014
-    logoUrl: https://cdn.discordapp.com/attachments/973695121176526908/1070010345164386426/ifive.jpeg
+    icon: https://cdn.discordapp.com/attachments/973695121176526908/1070010345164386426/ifive.jpeg
   - name: iFive CW
     check: "tcp-ping"
     url: 51.91.215.27
     port: 10007
-    logoUrl: https://cdn.discordapp.com/attachments/973695121176526908/1070010345164386426/ifive.jpeg
+    icon: https://cdn.discordapp.com/attachments/973695121176526908/1070010345164386426/ifive.jpeg
   - name: iFive DS
     check: "tcp-ping"
     url: 51.91.215.27
     port: 10010
-    logoUrl: https://cdn.discordapp.com/attachments/973695121176526908/1070010345164386426/ifive.jpeg
+    icon: https://cdn.discordapp.com/attachments/973695121176526908/1070010345164386426/ifive.jpeg
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -49,8 +49,6 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO   
-      
-theme: dark
 
 i18n:
   footer: Monitoring
@@ -58,7 +56,7 @@ i18n:
   allSystemsOperational: L'ensemble des systèmes sont opérationnels
   incidentReport: "Incident #$NUMBER →"
   activeIncidentSummary: Ouvert le $DATE avec $POSTS messages
-  incidentTitle: Détails de l\'incident $NUMBER
+  incidentTitle: Détails de l'incident $NUMBER
   incidentDetails: Détails de l'incident
   incidentFixed: Réparé
   incidentOngoing: En cours
