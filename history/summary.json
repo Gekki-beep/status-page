@@ -1,25 +1,5 @@
 [
   {
-    "name": "Gekki",
-    "url": "https://gekki.fr",
-    "icon": "https://icons.duckduckgo.com/ip3/gekki.fr.ico",
-    "slug": "gekki",
-    "status": "down",
-    "uptime": "6.55%",
-    "uptimeDay": "6.55%",
-    "uptimeWeek": "6.55%",
-    "uptimeMonth": "6.55%",
-    "uptimeYear": "6.55%",
-    "time": 109,
-    "timeDay": 109,
-    "timeWeek": 109,
-    "timeMonth": 109,
-    "timeYear": 109,
-    "dailyMinutesDown": {
-      "2023-01-31": 0
-    }
-  },
-  {
     "name": "iFive",
     "url": "https://ifive-community.fr",
     "icon": "https://icons.duckduckgo.com/ip3/ifive-community.fr.ico",
@@ -30,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 274,
-    "timeDay": 274,
-    "timeWeek": 274,
-    "timeMonth": 274,
-    "timeYear": 274,
+    "time": 313,
+    "timeDay": 313,
+    "timeWeek": 313,
+    "timeMonth": 313,
+    "timeYear": 313,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 265,
-    "timeDay": 265,
-    "timeWeek": 265,
-    "timeMonth": 265,
-    "timeYear": 265,
+    "time": 358,
+    "timeDay": 358,
+    "timeWeek": 358,
+    "timeMonth": 358,
+    "timeYear": 358,
     "dailyMinutesDown": {}
   },
   {
@@ -61,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.steampowered.com.ico",
     "slug": "steam",
     "status": "down",
-    "uptime": "6.00%",
-    "uptimeDay": "6.00%",
-    "uptimeWeek": "6.00%",
-    "uptimeMonth": "6.00%",
-    "uptimeYear": "6.00%",
-    "time": 197,
-    "timeDay": 197,
-    "timeWeek": 197,
-    "timeMonth": 197,
-    "timeYear": 197,
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
+    "time": 164,
+    "timeDay": 164,
+    "timeWeek": 164,
+    "timeMonth": 164,
+    "timeYear": 164,
     "dailyMinutesDown": {
-      "2023-01-31": 0
+      "2023-01-31": 24
     }
   },
   {
@@ -86,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 80,
-    "timeDay": 80,
-    "timeWeek": 80,
-    "timeMonth": 80,
-    "timeYear": 80,
+    "time": 93,
+    "timeDay": 93,
+    "timeWeek": 93,
+    "timeMonth": 93,
+    "timeYear": 93,
     "dailyMinutesDown": {}
   },
   {
@@ -104,11 +84,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 79,
-    "timeDay": 79,
-    "timeWeek": 79,
-    "timeMonth": 79,
-    "timeYear": 79,
+    "time": 95,
+    "timeDay": 95,
+    "timeWeek": 95,
+    "timeMonth": 95,
+    "timeYear": 95,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "iFive DS",
+    "url": "51.91.215.27",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "i-five-ds",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 111,
+    "timeDay": 111,
+    "timeWeek": 111,
+    "timeMonth": 111,
+    "timeYear": 111,
     "dailyMinutesDown": {}
   }
 ]
