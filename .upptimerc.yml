@@ -9,12 +9,8 @@ sites:
     url: https://ifive-community.fr/panel
   - name: Discord
     url: https://discord.com/api/v10
-    expectedStatusCodes:
-      - 404
   - name: Steam
     url: https://api.steampowered.com
-    expectedStatusCodes:
-      - 404
   - name: iFive DarkRP
     check: "tcp-ping"
     url: 51.91.215.27
