@@ -49,6 +49,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+   theme: dark
 
 i18n:
   footer: Monitoring
@@ -106,7 +107,5 @@ i18n:
   durationMin: $DURATION minutes
   incidentCompleted: Complété
   incidentScheduled: Programmé
-  
-  theme: dark
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
