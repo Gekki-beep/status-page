@@ -70,7 +70,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-11": 49,
+      "2023-02-11": 999,
       "2023-02-10": 1440,
       "2023-02-09": 1440,
       "2023-02-08": 1440,
@@ -121,9 +121,9 @@
     "url": "51.91.215.27",
     "icon": "https://cdn.discordapp.com/attachments/973695121176526908/1070010345164386426/ifive.jpeg",
     "slug": "i-five-dark-rp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
@@ -133,6 +133,7 @@
     "timeMonth": 126,
     "timeYear": 126,
     "dailyMinutesDown": {
+      "2023-02-11": 0,
       "2023-01-31": 11
     }
   },
