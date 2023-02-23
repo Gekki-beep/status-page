@@ -40,9 +40,9 @@
     "url": "https://gekki.fr",
     "icon": "https://cdn.discordapp.com/attachments/1004723715382198292/1071495298582593566/gekki.png",
     "slug": "gekki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 702,
     "timeMonth": 692,
     "timeYear": 692,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-23": 0
+    }
   },
   {
     "name": "CDN",
@@ -70,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-23": 889,
+      "2023-02-23": 1390,
       "2023-02-22": 1440,
       "2023-02-21": 1440,
       "2023-02-20": 1440,
@@ -134,11 +136,11 @@
     "icon": "https://cdn.discordapp.com/attachments/973695121176526908/1070010345164386426/ifive.jpeg",
     "slug": "i-five-dark-rp",
     "status": "up",
-    "uptime": "99.04%",
+    "uptime": "99.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.04%",
-    "uptimeYear": "99.04%",
+    "uptimeMonth": "99.06%",
+    "uptimeYear": "99.06%",
     "time": 122,
     "timeDay": 153,
     "timeWeek": 113,
@@ -156,18 +158,17 @@
     "icon": "https://cdn.discordapp.com/attachments/973695121176526908/1070010345164386426/ifive.jpeg",
     "slug": "i-five-cw",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
     "time": 123,
     "timeDay": 117,
     "timeWeek": 113,
     "timeMonth": 123,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2023-02-23": 11,
       "2023-02-20": 17
     }
   },
