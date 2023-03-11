@@ -12,9 +12,6 @@ sites:
   - name: Gekki
     url: https://gekki.fr
     icon: https://cdn.discordapp.com/attachments/1004723715382198292/1071495298582593566/gekki.png
-  - name: CDN
-    url: https://cdn.gekki.fr
-    icon: https://cdn.discordapp.com/attachments/1004723715382198292/1071495298582593566/gekki.png
   - name: Discord
     url: https://discord.com/api/v10
     expectedStatusCodes:
