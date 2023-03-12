@@ -4,19 +4,19 @@
     "url": "https://ifive-community.fr",
     "icon": "https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg",
     "slug": "i-five",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 378,
-    "timeDay": 444,
-    "timeWeek": 379,
-    "timeMonth": 365,
-    "timeYear": 378,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "93.08%",
+    "uptimeWeek": "99.01%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.83%",
+    "time": 379,
+    "timeDay": 440,
+    "timeWeek": 383,
+    "timeMonth": 367,
+    "timeYear": 379,
     "dailyMinutesDown": {
-      "2023-03-12": 0
+      "2023-03-12": 100
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://ifive-community.fr/panel",
     "icon": "https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg",
     "slug": "panel",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 426,
-    "timeDay": 349,
-    "timeWeek": 376,
-    "timeMonth": 384,
-    "timeYear": 426,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "93.08%",
+    "uptimeWeek": "99.01%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.83%",
+    "time": 427,
+    "timeDay": 392,
+    "timeWeek": 389,
+    "timeMonth": 388,
+    "timeYear": 427,
     "dailyMinutesDown": {
-      "2023-03-12": 0
+      "2023-03-12": 100
     }
   },
   {
