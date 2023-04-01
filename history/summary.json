@@ -125,11 +125,11 @@
     "icon": "https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg",
     "slug": "i-five-cw",
     "status": "up",
-    "uptime": "99.36%",
+    "uptime": "99.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "98.78%",
-    "uptimeYear": "99.36%",
+    "uptimeYear": "99.37%",
     "time": 118,
     "timeDay": 82,
     "timeWeek": 120,
@@ -171,10 +171,10 @@
     "url": "51.91.215.27",
     "icon": "https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg",
     "slug": "i-five-scp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 116,
@@ -182,7 +182,9 @@
     "timeWeek": 121,
     "timeMonth": 116,
     "timeYear": 116,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-01": 1
+    }
   },
   {
     "name": "iFive WW2",
@@ -190,18 +192,18 @@
     "icon": "https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg",
     "slug": "i-five-ww-2",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.90%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 115,
     "timeDay": 83,
     "timeWeek": 117,
     "timeMonth": 115,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2023-04-01": 0,
+      "2023-04-01": 12,
       "2023-03-29": 28
     }
   }
