@@ -41,11 +41,6 @@ sites:
     url: 51.91.215.27
     port: 10018
     icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
-  - name: iFive WW2
-    check: "tcp-ping"
-    url: 51.91.215.27
-    port: 10006
-    icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
