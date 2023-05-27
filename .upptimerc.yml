@@ -7,7 +7,7 @@ sites:
     url: https://ifive-community.fr
     icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
   - name: Panel
-    url: https://ifive-community.fr/panel
+    url: https://panel.ifive-community.fr/
     icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
   - name: Games
     url: https://games.ifive-community.fr/
