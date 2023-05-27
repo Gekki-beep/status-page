@@ -9,6 +9,12 @@ sites:
   - name: Panel
     url: https://ifive-community.fr/panel
     icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
+  - name: Games
+    url: https://games.ifive-community.fr/
+    icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
+  - name: BDD
+    url: https://games.ifive-community.fr/pma
+    icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
   - name: Gekki
     url: https://gekki.fr
     icon: https://cdn.discordapp.com/attachments/1004723715382198292/1071495298582593566/gekki.png
@@ -21,25 +27,15 @@ sites:
     expectedStatusCodes:
       - 404
     icon: https://www.pinclipart.com/picdir/middle/100-1003109_steam-clip-art.png
-  - name: iFive DarkRP
-    check: "tcp-ping"
-    url: 51.91.215.27
-    port: 10014
-    icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
   - name: iFive CW
     check: "tcp-ping"
-    url: 51.91.215.27
-    port: 10007
+    url: 51.159.198.72
+    port: 10004
     icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
-  - name: iFive DS
+  - name: iFive Poudlard
     check: "tcp-ping"
-    url: 51.91.215.27
-    port: 10010
-    icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
-  - name: iFive SCP
-    check: "tcp-ping"
-    url: 51.91.215.27
-    port: 10018
+    url: ifive.hosterfy.eu
+    port: 63259
     icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
     
 status-website:
