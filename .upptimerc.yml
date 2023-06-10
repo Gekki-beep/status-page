@@ -11,6 +11,10 @@ sites:
     icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
   - name: Games
     url: https://games.ifive-community.fr/
+  - name: Node02
+    url: https://node02.ifive-community.fr/
+  - name: Node03
+    url: https://node03.ifive-community.fr/
     icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
   - name: BDD
     url: https://games.ifive-community.fr/pma
@@ -34,8 +38,8 @@ sites:
     icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
   - name: iFive Poudlard
     check: "tcp-ping"
-    url: ifive.hosterfy.eu
-    port: 63259
+    url: node03.ifive-community.fr
+    port: 27015
     icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
     
 status-website:
