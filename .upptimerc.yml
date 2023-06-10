@@ -11,8 +11,10 @@ sites:
     icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
   - name: Games
     url: https://games.ifive-community.fr/
+    icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
   - name: Node02
     url: https://node02.ifive-community.fr/
+    icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
   - name: Node03
     url: node03.ifive-community.fr
     icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
@@ -31,10 +33,15 @@ sites:
     expectedStatusCodes:
       - 404
     icon: https://www.pinclipart.com/picdir/middle/100-1003109_steam-clip-art.png
+  - name: iFive DarkRP
+    check: "tcp-ping"
+    url: node02.ifive-community.fr
+    port: 10001
+    icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
   - name: iFive CW
     check: "tcp-ping"
-    url: 51.159.198.72
-    port: 10004
+    url: node02.ifive-community.fr
+    port: 10000
     icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
   - name: iFive Poudlard
     check: "tcp-ping"
