@@ -9,19 +9,16 @@ sites:
   - name: Panel
     url: https://panel.ifive-community.fr/
     icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
-  - name: Games
-    url: https://games.ifive-community.fr/
+  - name: Node01
+    url:  http://node01.ifive-community.fr/
     icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
   - name: Node02
     url: https://node02.ifive-community.fr/
     icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
   - name: Node03
-    url: https://node03.ifive-community.fr/
+    url: http://node03.ifive-community.fr/
     icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
   - name: SQL01
-    url: https://games.ifive-community.fr/pma
-    icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
-  - name: SQL02
     url: https://node02.ifive-community.fr/pma
     icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
   - name: Gekki
