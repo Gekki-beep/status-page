@@ -6,6 +6,12 @@ sites:
   - name: iFive
     url: https://ifive-community.fr
     icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
+  - name: Poudlard
+    url: https://poudlard.ifive-community.fr
+    icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
+  - name: DarkRP
+    url: https://darkrp.ifive-community.fr
+    icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
   - name: Boutique
     url: https://boutique.ifive-community.fr
     icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
@@ -18,6 +24,8 @@ sites:
   - name: Node01
     url:  http://node01.ifive-community.fr/
     icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
+    expectedStatusCodes:
+      - 404
   - name: Node02
     url: https://node02.ifive-community.fr/
     icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
