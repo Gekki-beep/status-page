@@ -1,7 +1,7 @@
 url: https://boutique.ifive-community.fr
-status: up
-code: 200
-responseTime: 247
-lastUpdated: 2023-12-05T21:31:28.698Z
+status: down
+code: 403
+responseTime: 141
+lastUpdated: 2023-12-05T21:53:11.673Z
 startTime: 2023-07-02T16:32:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
