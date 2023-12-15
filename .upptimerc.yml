@@ -17,6 +17,7 @@ sites:
     icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
     expectedStatusCodes:
       - 404
+      - 403
   - name: SQL01
     url: https://panel.ifive-roleplay.fr/pma
     icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
@@ -24,11 +25,13 @@ sites:
     url: https://discord.com/api/v10
     expectedStatusCodes:
       - 404
+      - 406
       - 40333
   - name: Steam
     url: https://api.steampowered.com
     expectedStatusCodes:
       - 404
+      - 406
     icon: https://www.pinclipart.com/picdir/middle/100-1003109_steam-clip-art.png
   - name: iFive RedM
     check: "tcp-ping"
