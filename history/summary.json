@@ -292,7 +292,7 @@
     "slug": "panel",
     "status": "down",
     "uptime": "96.52%",
-    "uptimeDay": "99.88%",
+    "uptimeDay": "99.87%",
     "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.52%",
@@ -325,19 +325,17 @@
     "icon": "https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg",
     "slug": "node04",
     "status": "up",
-    "uptime": "8.16%",
-    "uptimeDay": "8.16%",
-    "uptimeWeek": "8.16%",
-    "uptimeMonth": "8.16%",
-    "uptimeYear": "8.16%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 248,
     "timeDay": 248,
     "timeWeek": 248,
     "timeMonth": 248,
     "timeYear": 248,
-    "dailyMinutesDown": {
-      "2023-12-15": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SQL01",
