@@ -6,58 +6,34 @@ sites:
   - name: iFive
     url: https://ifive-community.fr
     icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
-  - name: Poudlard
-    url: https://poudlard.ifive-community.fr
-    icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
-  - name: DarkRP
-    url: https://darkrp.ifive-community.fr
-    icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
-  - name: Boutique
-    url: https://boutique.ifive-community.fr
-    icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
   - name: Wiki
     url: https://wiki.ifive-community.fr
     icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
   - name: Panel
-    url: https://panel.ifive-community.fr/
+    url: https://panel.ifive-roleplay.fr/
     icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
-  - name: Node01
-    url:  http://node01.ifive-community.fr/
+  - name: Node04
+    url:  http://node04.ifive-community.fr/
     icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
     expectedStatusCodes:
       - 404
-  - name: Node02
-    url: https://node02.ifive-community.fr/
-    icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
   - name: SQL01
-    url: https://node02.ifive-community.fr/pma
+    url: https://panel.ifive-roleplay.fr/pma
     icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
-  - name: Gekki
-    url: https://gekki.fr
-    icon: https://cdn.discordapp.com/attachments/1004723715382198292/1071495298582593566/gekki.png
   - name: Discord
     url: https://discord.com/api/v10
     expectedStatusCodes:
       - 404
+      - 40333
   - name: Steam
     url: https://api.steampowered.com
     expectedStatusCodes:
       - 404
     icon: https://www.pinclipart.com/picdir/middle/100-1003109_steam-clip-art.png
-  - name: iFive DarkRP
+  - name: iFive RedM
     check: "tcp-ping"
-    url: node02.ifive-community.fr
-    port: 10001
-    icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
-  - name: iFive CW
-    check: "tcp-ping"
-    url: node02.ifive-community.fr
-    port: 10000
-    icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
-  - name: iFive Poudlard
-    check: "tcp-ping"
-    url: node03.ifive-community.fr
-    port: 27015
+    url: node04.ifive-community.fr
+    port: 30120
     icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
     
 status-website:
