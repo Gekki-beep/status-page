@@ -386,7 +386,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/discord.com.ico",
     "slug": "discord",
     "status": "down",
-    "uptime": "62.14%",
+    "uptime": "62.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -583,11 +583,11 @@
     "url": "node04.ifive-community.fr",
     "icon": "https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg",
     "slug": "i-five-red-m",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.87%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.87%",
     "time": 117,
     "timeDay": 108,
@@ -595,6 +595,7 @@
     "timeMonth": 107,
     "timeYear": 117,
     "dailyMinutesDown": {
+      "2024-03-28": 0,
       "2024-03-26": 59,
       "2024-01-12": 139
     }
