@@ -6,6 +6,12 @@ sites:
   - name: iFive
     url: https://ifive-community.fr
     icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
+  - name: API iFive
+    url: https://api.ifive-community.fr
+    icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
+  - name: Hastebin iFive
+    url: https://hastebin.ifive-community.fr
+    icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
   - name: Wiki
     url: https://wiki.ifive-community.fr
     icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
@@ -37,6 +43,12 @@ sites:
     check: "tcp-ping"
     url: node04.ifive-community.fr
     port: 30120
+    icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
+  - name: iFive RedM (Site)
+    url: https://redm.ifive-roleplay.fr
+    icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
+  - name: iFive CW
+    url: https://cw.ifive-roleplay.fr
     icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
     
 status-website:
