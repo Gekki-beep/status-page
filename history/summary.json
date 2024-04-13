@@ -249,7 +249,7 @@
     "timeMonth": 145,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2024-04-13": 502,
+      "2024-04-13": 611,
       "2024-04-12": 505
     }
   },
@@ -270,7 +270,7 @@
     "timeMonth": 108,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2024-04-13": 502,
+      "2024-04-13": 611,
       "2024-04-12": 505
     }
   },
@@ -366,11 +366,11 @@
     "icon": "https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg",
     "slug": "node04",
     "status": "up",
-    "uptime": "99.32%",
+    "uptime": "99.33%",
     "uptimeDay": "26.09%",
     "uptimeWeek": "89.44%",
     "uptimeMonth": "97.57%",
-    "uptimeYear": "99.32%",
+    "uptimeYear": "99.33%",
     "time": 295,
     "timeDay": 396,
     "timeWeek": 347,
@@ -627,19 +627,19 @@
     "url": "node04.ifive-community.fr",
     "icon": "https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg",
     "slug": "i-five-red-m",
-    "status": "down",
-    "uptime": "98.87%",
-    "uptimeDay": "26.16%",
-    "uptimeWeek": "89.45%",
-    "uptimeMonth": "95.89%",
-    "uptimeYear": "98.87%",
+    "status": "up",
+    "uptime": "98.81%",
+    "uptimeDay": "18.58%",
+    "uptimeWeek": "88.37%",
+    "uptimeMonth": "95.64%",
+    "uptimeYear": "98.81%",
     "time": 117,
-    "timeDay": 0,
-    "timeWeek": 121,
-    "timeMonth": 116,
+    "timeDay": 110,
+    "timeWeek": 119,
+    "timeMonth": 115,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2024-04-13": 502,
+      "2024-04-13": 611,
       "2024-04-12": 561,
       "2024-03-28": 679,
       "2024-03-26": 59,
@@ -663,7 +663,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-13": 502,
+      "2024-04-13": 611,
       "2024-04-12": 503
     }
   },
@@ -684,7 +684,7 @@
     "timeMonth": 0,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2024-04-13": 502,
+      "2024-04-13": 611,
       "2024-04-12": 503,
       "2023-12-15": 1302,
       "2023-12-14": 1440,
