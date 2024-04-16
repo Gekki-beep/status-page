@@ -48,10 +48,10 @@ sites:
     url: node04.ifive-community.fr
     port: 30120
     icon: https://i.imgur.com/51J6HuV.png
-  - name: iFive RedM (Site)
-    url: https://redm.ifive-roleplay.fr
-    icon: https://i.imgur.com/51J6HuV.png
-  - name: iFive CW
+  - name: CFX
+    url: https://cfx.re/join/j34ool
+    icon: https://avatars.githubusercontent.com/u/25160833?s=280&v=4
+  - name: iFive Apocalypse
     url: node04.ifive-community.fr
     port: 10000
     icon: https://i.imgur.com/51J6HuV.png
