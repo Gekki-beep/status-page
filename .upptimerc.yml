@@ -5,28 +5,28 @@ repo: status-page # The name of this repository
 sites:
   - name: iFive
     url: https://ifive-community.fr
-    icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
+    icon: https://i.imgur.com/51J6HuV.png
   - name: API iFive
     url: https://api.ifive-community.fr
-    icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
+    icon: https://i.imgur.com/51J6HuV.png
   - name: Hastebin iFive
     url: https://hastebin.ifive-community.fr
-    icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
+    icon: https://i.imgur.com/51J6HuV.png
   - name: Wiki
     url: https://wiki.ifive-community.fr
-    icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
+    icon: https://i.imgur.com/51J6HuV.png
   - name: Panel
     url: https://panel.ifive-roleplay.fr/
-    icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
+    icon: https://i.imgur.com/51J6HuV.png
   - name: Node04
     url:  http://node04.ifive-community.fr/
-    icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
+    icon: https://i.imgur.com/51J6HuV.png
     expectedStatusCodes:
       - 404
       - 403
   - name: SQL01
     url: https://panel.ifive-roleplay.fr/pma
-    icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
+    icon: https://i.imgur.com/51J6HuV.png
   - name: Discord
     url: https://discord.com/api/v10
     expectedStatusCodes:
@@ -36,7 +36,7 @@ sites:
   - name: iFive Radio
     url: node04.ifive-community.fr
     port: 10004
-    icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
+    icon: https://i.imgur.com/51J6HuV.png
   - name: Steam
     url: https://api.steampowered.com
     expectedStatusCodes:
@@ -47,14 +47,14 @@ sites:
     check: "tcp-ping"
     url: node04.ifive-community.fr
     port: 30120
-    icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
+    icon: https://i.imgur.com/51J6HuV.png
   - name: iFive RedM (Site)
     url: https://redm.ifive-roleplay.fr
-    icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
+    icon: https://i.imgur.com/51J6HuV.png
   - name: iFive CW
     url: node04.ifive-community.fr
     port: 10000
-    icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
+    icon: https://i.imgur.com/51J6HuV.png
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
