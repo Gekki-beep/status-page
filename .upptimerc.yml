@@ -33,6 +33,10 @@ sites:
       - 404
       - 406
       - 40333
+  - name: iFive Radio
+    url: node04.ifive-community.fr
+    port: 10004
+    icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
   - name: Steam
     url: https://api.steampowered.com
     expectedStatusCodes:
@@ -48,7 +52,8 @@ sites:
     url: https://redm.ifive-roleplay.fr
     icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
   - name: iFive CW
-    url: https://cw.ifive-roleplay.fr
+    url: node04.ifive-community.fr
+    port: 10000
     icon: https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg
     
 status-website:
