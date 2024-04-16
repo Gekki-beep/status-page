@@ -249,7 +249,7 @@
     "timeMonth": 110,
     "timeYear": 110,
     "dailyMinutesDown": {
-      "2024-04-16": 891,
+      "2024-04-16": 892,
       "2024-04-15": 1440,
       "2024-04-14": 1440,
       "2024-04-13": 1440,
@@ -273,7 +273,7 @@
     "timeMonth": 107,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2024-04-16": 891,
+      "2024-04-16": 892,
       "2024-04-15": 1440,
       "2024-04-14": 1440,
       "2024-04-13": 1440,
@@ -616,18 +616,18 @@
     "icon": "https://cdn.discordapp.com/attachments/1075835241534587041/1081960065264787456/4K_General.jpeg",
     "slug": "i-five-radio",
     "status": "down",
-    "uptime": "2.18%",
-    "uptimeDay": "2.18%",
-    "uptimeWeek": "2.18%",
-    "uptimeMonth": "2.18%",
-    "uptimeYear": "2.18%",
+    "uptime": "2.70%",
+    "uptimeDay": "2.70%",
+    "uptimeWeek": "2.70%",
+    "uptimeMonth": "2.70%",
+    "uptimeYear": "2.70%",
     "time": 163,
     "timeDay": 163,
     "timeWeek": 163,
     "timeMonth": 163,
     "timeYear": 163,
     "dailyMinutesDown": {
-      "2024-04-16": 0
+      "2024-04-16": 1
     }
   },
   {
