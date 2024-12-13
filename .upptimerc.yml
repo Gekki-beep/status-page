@@ -45,7 +45,7 @@ sites:
     url: https://status.cfx.re/api/v2/status.json
     icon: https://avatars.githubusercontent.com/u/25160833?s=280&v=4
     __dangerous__body_down_if_text_missing: "All Systems Operational"
-  - name: BeamMG
+  - name: BeamMG Steam
     check: "tcp-ping"
     url: node01.ifive-community.fr
     port: 10006
