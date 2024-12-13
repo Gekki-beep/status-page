@@ -47,6 +47,13 @@ sites:
   - name: CFX
     url: https://cfx.re/join/j34ool
     icon: https://avatars.githubusercontent.com/u/25160833?s=280&v=4
+  - name: API CFX
+    url: https://status.cfx.re/api/v2/status.json
+    icon: https://avatars.githubusercontent.com/u/25160833?s=280&v=4
+    __dangerous__body_degraded: "Partial System Outage"
+    __dangerous__body_degraded: "Partially Degraded Service"
+    __dangerous__body_degraded: "Minor Service Outage"
+    __dangerous__body_degraded: "Service Under Maintenance"
   - name: BeamMG
     url: node01.ifive-community.fr
     port: 10006
