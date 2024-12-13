@@ -1,7 +1,7 @@
-url: http://node04.ifive-community.fr/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-13T01:13:20.644Z
+url: http://node01.ifive-community.fr/
+status: up
+code: 403
+responseTime: 206
+lastUpdated: 2024-12-13T02:56:37.381Z
 startTime: 2023-12-15T21:37:58.062Z
 generator: Upptime <https://github.com/upptime/upptime>
