@@ -12,7 +12,7 @@ sites:
   - name: Panel
     url: https://games.ifive-roleplay.fr/
     icon: https://i.imgur.com/51J6HuV.png
-  - name: Node04
+  - name: Node01
     url:  http://node01.ifive-community.fr/
     icon: https://i.imgur.com/51J6HuV.png
     expectedStatusCodes:
