@@ -53,7 +53,7 @@ sites:
     __dangerous__body_degraded: "Partial System Outage"
     __dangerous__body_degraded: "Partially Degraded Service"
     __dangerous__body_degraded: "Minor Service Outage"
-    __dangerous__body_degraded: "Service Under Maintenance"
+    __dangerous__body_down: "Service Under Maintenance"
   - name: BeamMG
     url: node01.ifive-community.fr
     port: 10006
