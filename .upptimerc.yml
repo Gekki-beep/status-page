@@ -13,19 +13,19 @@ sites:
     url: https://hastebin.ifive-community.fr
     icon: https://i.imgur.com/51J6HuV.png
   - name: Wiki
-    url: https://wiki.ifive-community.fr
+    url: https://docs.ifive-community.fr
     icon: https://i.imgur.com/51J6HuV.png
   - name: Panel
-    url: https://panel.ifive-roleplay.fr/
+    url: https://games.ifive-roleplay.fr/
     icon: https://i.imgur.com/51J6HuV.png
   - name: Node04
-    url:  http://node04.ifive-community.fr/
+    url:  http://node01.ifive-community.fr/
     icon: https://i.imgur.com/51J6HuV.png
     expectedStatusCodes:
       - 404
       - 403
   - name: SQL01
-    url: https://panel.ifive-roleplay.fr/pma
+    url: https://games.ifive-roleplay.fr/pma
     icon: https://i.imgur.com/51J6HuV.png
   - name: Discord
     url: https://discord.com/api/v10
@@ -33,10 +33,6 @@ sites:
       - 404
       - 406
       - 40333
-  - name: iFive Radio
-    url: node04.ifive-community.fr
-    port: 10004
-    icon: https://i.imgur.com/51J6HuV.png
   - name: Steam
     url: https://api.steampowered.com
     expectedStatusCodes:
@@ -45,16 +41,16 @@ sites:
     icon: https://www.pinclipart.com/picdir/middle/100-1003109_steam-clip-art.png
   - name: iFive RedM
     check: "tcp-ping"
-    url: node04.ifive-community.fr
+    url: node01.ifive-community.fr
     port: 30120
     icon: https://i.imgur.com/51J6HuV.png
   - name: CFX
     url: https://cfx.re/join/j34ool
     icon: https://avatars.githubusercontent.com/u/25160833?s=280&v=4
-  - name: iFive Apocalypse
-    url: node04.ifive-community.fr
-    port: 10000
-    icon: https://i.imgur.com/51J6HuV.png
+  - name: BeamMG
+    url: node01.ifive-community.fr
+    port: 10006
+    icon: https://www.pinclipart.com/picdir/middle/100-1003109_steam-clip-art.png
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
