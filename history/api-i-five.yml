@@ -1,7 +1,7 @@
 url: https://api.ifive-community.fr
-status: down
-code: 502
-responseTime: 473
-lastUpdated: 2025-03-09T23:15:59.893Z
+status: up
+code: 200
+responseTime: 496
+lastUpdated: 2025-03-10T13:29:07.656Z
 startTime: 2024-04-12T15:35:19.362Z
 generator: Upptime <https://github.com/upptime/upptime>
