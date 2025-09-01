@@ -1,7 +1,7 @@
 url: https://status.cfx.re/api/v2/status.json
-status: down
-code: 405
-responseTime: 136
-lastUpdated: 2025-09-01T16:43:06.942Z
+status: up
+code: 200
+responseTime: 240
+lastUpdated: 2025-09-01T16:54:41.871Z
 startTime: 2024-12-13T03:08:59.459Z
 generator: Upptime <https://github.com/upptime/upptime>
