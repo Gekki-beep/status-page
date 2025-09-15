@@ -3,53 +3,49 @@ owner: gekki-beep # Your GitHub organization or username, where this repository 
 repo: status-page # The name of this repository
 
 sites:
-  - name: API iFive
-    url: https://api.ifive-community.fr
-    icon: https://i.imgur.com/51J6HuV.png
-  - name: Wiki
-    url: https://docs.ifive-community.fr
-    icon: https://i.imgur.com/51J6HuV.png
   - name: Panel
-    url: https://games.ifive-roleplay.fr/
+    url: https://pterodactyl.ifive-roleplay.fr/
     icon: https://i.imgur.com/51J6HuV.png
-  - name: Node01
-    url:  http://node01.ifive-community.fr/
+  - name: API Panel
+    url: https://pterodactyl.ifive-roleplay.fr/api/client/
+    icon: https://i.imgur.com/51J6HuV.png
+  - name: API
+    url: http://node04.ifive-community.fr:10003/ifive
+    icon: https://i.imgur.com/51J6HuV.png
+  - name: Node04
+    url:  http://node04.ifive-community.fr/
     icon: https://i.imgur.com/51J6HuV.png
     expectedStatusCodes:
       - 404
       - 403
   - name: SQL01
-    url: https://games.ifive-roleplay.fr/pma
+    url: https://panel.ifive-roleplay.fr/pma
+    icon: https://i.imgur.com/51J6HuV.png
+  - name: Wiki
+    url: https://wiki.ifive-community.fr
+  - name: Grafana
+    url: http://node04.ifive-community.fr:10004
     icon: https://i.imgur.com/51J6HuV.png
   - name: Discord
-    url: https://discord.com/api/v10
-    expectedStatusCodes:
-      - 404
-      - 406
-      - 40333
+    url: https://discord.com/
   - name: Steam
     url: https://api.steampowered.com
     expectedStatusCodes:
       - 404
       - 406
     icon: https://www.pinclipart.com/picdir/middle/100-1003109_steam-clip-art.png
-  - name: iFive RedM
+  - name: iFive FiveM
     check: "tcp-ping"
-    url: node01.ifive-community.fr
+    url: node04.ifive-community.fr
     port: 30120
     icon: https://i.imgur.com/51J6HuV.png
   - name: CFX
-    url: https://cfx.re/join/j34ool
+    url: https://cfx.re/join/pzvm47
     icon: https://avatars.githubusercontent.com/u/25160833?s=280&v=4
   - name: API CFX
     url: https://status.cfx.re/api/v2/status.json
     icon: https://avatars.githubusercontent.com/u/25160833?s=280&v=4
     __dangerous__body_down_if_text_missing: "All Systems Operational"
-  - name: BeamMG Steam
-    check: "tcp-ping"
-    url: node01.ifive-community.fr
-    port: 10006
-    icon: https://www.pinclipart.com/picdir/middle/100-1003109_steam-clip-art.png
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
