@@ -19,7 +19,7 @@ sites:
       - 404
       - 403
   - name: SQL01
-    url: https://panel.ifive-roleplay.fr/pma
+    url: https://pterodactyl.ifive-roleplay.fr/pma
     icon: https://i.imgur.com/51J6HuV.png
   - name: Wiki
     url: https://wiki.ifive-community.fr
